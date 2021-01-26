@@ -11,5 +11,9 @@
   "devDependencies": {
     "@ui5/cli": "^2.8.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@openui5/sap.m": "^1.85.2",
+    "@openui5/sap.ui.core": "^1.85.2",
+    "@openui5/sap.ui.documentation": "^1.85.2"
+  }
 }
