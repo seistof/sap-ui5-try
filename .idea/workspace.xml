@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c6b7bb9-2fe1-49f8-91d3-779ebb738385" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webapp/controller/App.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui5.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ui5.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/view/App.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/view/App.view.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1nc3SkTgkTpNG9yuv0PD0nABje1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="15.6.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.22" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c6b7bb9-2fe1-49f8-91d3-779ebb738385" name="Default Changelist" comment="" />
+      <created>1611675556520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611675556520</updated>
+      <workItem from="1611675560139" duration="605000" />
+      <workItem from="1611677105920" duration="2485000" />
+      <workItem from="1611681990958" duration="1329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1159" y="131" key="#Usage_Scope" timestamp="1611678083651">
+      <screen x="-1920" y="-255" width="1920" height="1055" />
+    </state>
+    <state x="-1159" y="131" key="#Usage_Scope/0.25.1280.775/-1920.-255.1920.1055@-1920.-255.1920.1055" timestamp="1611678083651" />
+    <state width="1066" height="287" key="GridCell.Tab.0.bottom" timestamp="1611679300861">
+      <screen x="-1920" y="-255" width="1920" height="1055" />
+    </state>
+    <state width="1066" height="287" key="GridCell.Tab.0.bottom/0.25.1280.775/-1920.-255.1920.1055@-1920.-255.1920.1055" timestamp="1611679300861" />
+    <state width="1066" height="287" key="GridCell.Tab.0.center" timestamp="1611679300860">
+      <screen x="-1920" y="-255" width="1920" height="1055" />
+    </state>
+    <state width="1066" height="287" key="GridCell.Tab.0.center/0.25.1280.775/-1920.-255.1920.1055@-1920.-255.1920.1055" timestamp="1611679300860" />
+    <state width="1066" height="287" key="GridCell.Tab.0.left" timestamp="1611679300859">
+      <screen x="-1920" y="-255" width="1920" height="1055" />
+    </state>
+    <state width="1066" height="287" key="GridCell.Tab.0.left/0.25.1280.775/-1920.-255.1920.1055@-1920.-255.1920.1055" timestamp="1611679300859" />
+    <state width="1066" height="287" key="GridCell.Tab.0.right" timestamp="1611679300860">
+      <screen x="-1920" y="-255" width="1920" height="1055" />
+    </state>
+    <state width="1066" height="287" key="GridCell.Tab.0.right/0.25.1280.775/-1920.-255.1920.1055@-1920.-255.1920.1055" timestamp="1611679300860" />
+    <state x="-1166" y="-100" key="SettingsEditor" timestamp="1611683334719">
+      <screen x="-1920" y="-255" width="1920" height="1055" />
+    </state>
+    <state x="-1166" y="-100" key="SettingsEditor/0.25.1280.775/-1920.-255.1920.1055@-1920.-255.1920.1055" timestamp="1611683334719" />
+    <state x="-1683" y="-32" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1611680009462">
+      <screen x="-1920" y="-255" width="1920" height="1055" />
+    </state>
+    <state x="-1683" y="-32" key="com.intellij.javaee.MapExternalResourceDialog/0.25.1280.775/-1920.-255.1920.1055@-1920.-255.1920.1055" timestamp="1611680009462" />
+  </component>
+</project>

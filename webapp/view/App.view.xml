@@ -1,5 +1,6 @@
 <mvc:View
-    xmlns="sap.m"
-    xmlns:mvc="sap.ui.core.mvc">
-    <Text text="Hello UI5 from XML"/>
+        controllerName="sap.ui.demo/try.controller.App"
+        xmlns="sap.m"
+        xmlns:mvc="sap.ui.core.mvc">
+    <Button text="Say Hi" press=".onShowHello"/>
 </mvc:View>
